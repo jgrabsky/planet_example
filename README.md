@@ -1,2 +1,3 @@
-# planet_example
-Udemy training - module planets
+# Planets
+
+Developed with Unreal Engine 4
